@@ -1,0 +1,5 @@
+## We need this directory to exist in version control
+!.gitignore
+
+## Do you want this in version control?
+report.html

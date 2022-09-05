@@ -1,0 +1,37 @@
+[
+  {
+    "color": "ffaaff",
+    "description": "Persona: partially sighted screenreader user",
+    "name": "ashleigh"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: user with rheumatoid arthritis",
+    "name": "christopher"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: partially sighted screen magnifier user",
+    "name": "claudia"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: autistic user",
+    "name": "pawel"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: older user with multiple conditions",
+    "name": "ron"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: profoundly deaf user",
+    "name": "saleem"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: dyslexic user",
+    "name": "simone"
+  }
+]

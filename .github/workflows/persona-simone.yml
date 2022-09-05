@@ -1,0 +1,26 @@
+---
+name: "Persona: Simone"
+on:
+  workflow_dispatch: {}
+  ## Manually-triggered Workflow.
+
+jobs:
+
+  issues:
+    name: "Adds Simone’s issues"
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: matthewferry/create-a-project@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          name: "Simone’s user journey"
+          description: "Test the user journeys as Simone."
+          columns: |
+            To do
+            In progress
+            Done
+            Issues
+            Fixed

@@ -1,0 +1,71 @@
+---
+name: "Persona: Ashleigh"
+on:
+  workflow_dispatch: {}
+  ## Manually-triggered Workflow.
+
+jobs:
+
+  issues:
+    name: "Adds Ashleigh’s issues"
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: matthewferry/create-a-project@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          name: "Ashleigh’s user journey"
+          description: "Test the user journeys as Ashleigh."
+          columns: |
+            To do
+            In progress
+            Done
+            Issues
+            Fixed
+
+      - name: Create Issue
+        id: id-00
+        uses: peter-evans/create-issue-from-file@v3
+        with:
+          content-filepath: ./.github/ISSUE_TEMPLATE/AUDIT_TASK_00_KEYBOARD_ONLY.md
+          labels: "audit, keyboard-only"
+          title: "\U0001F9ED \U00002328\U0000FE0F Keyboard-only"
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create Project Card
+        uses: peter-evans/create-or-update-project-card@v1.1.4
+        with:
+          project-name: "Ashleigh’s user journey"
+          column-name: To do
+          issue-number: ${{ steps.id-00.outputs.issue-number }}
+
+      - name: Create Issue
+        id: id-01
+        uses: peter-evans/create-issue-from-file@v3
+        with:
+          content-filepath: ./.github/ISSUE_TEMPLATE/AUDIT_TASK_20_SCREENREADER_IOS_VOICEOVER.md
+          labels: "audit, ios, screen reader, voiceover"
+          title: "\U0001F916 \U0001F4F1 Screen reader: iOS"
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create Project Card
+        uses: peter-evans/create-or-update-project-card@v1.1.4
+        with:
+          project-name: "Ashleigh’s user journey"
+          column-name: To do
+          issue-number: ${{ steps.id-01.outputs.issue-number }}
+
+      - name: Create Issue
+        id: id-03
+        uses: peter-evans/create-issue-from-file@v3
+        with:
+          content-filepath: ./.github/ISSUE_TEMPLATE/AUDIT_TASK_20_SCREENREADER_WINDOWS_JAWS.md
+          labels: "audit, edge, ie11, jaws, windows"
+          title: "\U0001F916 \U0001F5A5 JAWS: Windows"
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create Project Card
+        uses: peter-evans/create-or-update-project-card@v1.1.4
+        with:
+          project-name: "Ashleigh’s user journey"
+          column-name: To do
+          issue-number: ${{ steps.id-03.outputs.issue-number }}

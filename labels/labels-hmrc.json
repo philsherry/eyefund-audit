@@ -1,0 +1,122 @@
+[
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "account header"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "accounts office reference"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "add to a list"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "ask the user for their consent"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "confirmed identity"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "could not confirm identity"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "currency input"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "employer paye reference"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "hmrc banner"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "internal header"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "match an organisation to hmrc records"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "notification badge"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "page heading"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "page not found"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "page title"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "service timeout"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "service unavailable"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "sign out"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "status tags in task list pages"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "there is a problem with the service"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "timeline"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "unique taxpayer reference"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "vat registration number"
+  },
+  {
+    "color": "008670",
+    "description": "HMRC Design Pattern",
+    "name": "welsh language toggle"
+  }
+]

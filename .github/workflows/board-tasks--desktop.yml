@@ -1,0 +1,26 @@
+---
+name: "Task Board: desktop"
+on:
+  workflow_dispatch: {}
+  ## Manually-triggered Workflow.
+
+jobs:
+
+  issues:
+    name: "Task Board: desktop"
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: matthewferry/create-a-project@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          name: "Task Board: desktop"
+          description: "Task board with a set of tasks for basic desktop testing."
+          columns: |
+            To do
+            In progress
+            Done
+            Issues
+            Fixed

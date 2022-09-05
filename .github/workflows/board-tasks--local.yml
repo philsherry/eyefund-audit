@@ -1,0 +1,27 @@
+---
+name: "Task Board: local"
+on:
+  workflow_dispatch: {}
+  ## Manually-triggered Workflow.
+
+jobs:
+
+  issues:
+    name: "Task Board: local"
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ./.github/actions/create-project
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          name: "Task Board: local"
+          description: "Task board with a set of tasks for basic desktop testing."
+          columns: |
+            To do
+            In progress
+            Done
+            Issues
+            Fixed
+          note: "This was put here by the local `create-project` action."

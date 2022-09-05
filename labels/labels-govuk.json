@@ -1,0 +1,287 @@
+[
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "accordion"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "back link"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "breadcrumbs"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "button"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "character count"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "checkboxes"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "cookie banner"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "date input"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "details"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "error message"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "error summary"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "fieldset"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "file upload"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "footer"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "header"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "inset text"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "notification banner"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "panel"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "phase banner"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "radios"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "select"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "skip link"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "summary list"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "table"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "tabs"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "tag"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "text input"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "textarea"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Component",
+    "name": "warning text"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "addresses"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "bank details"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "check a service is suitable"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "check answers"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "confirm a phone number"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "confirm an email address"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "confirmation pages"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "contact a department or service team"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "cookies page"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "create a username"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "create accounts"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "dates"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "email addresses"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "equality information"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "gender or sex"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "names"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "national insurance numbers"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "page not found pages"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "passwords"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "payment card details"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "question pages"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "recover from validation errors"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "service unavailable pages"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "start using a service"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "step by step navigation"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "task list pages"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "telephone numbers"
+  },
+  {
+    "color": "1d70b8",
+    "description": "GOV.UK Pattern",
+    "name": "there is a problem with the service pages"
+  }
+]

@@ -1,0 +1,26 @@
+---
+name: "Task Board: app (native)"
+on:
+  workflow_dispatch: {}
+  ## Manually-triggered Workflow.
+
+jobs:
+
+  issues:
+    name: "Task Board: app (native)"
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: matthewferry/create-a-project@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          name: "Task Board: app (native)"
+          description: "Task board with a set of tasks for native app testing."
+          columns: |
+            To do
+            In progress
+            Done
+            Issues
+            Fixed

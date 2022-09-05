@@ -1,0 +1,26 @@
+---
+name: "Project board"
+on:
+  workflow_dispatch: {}
+  ## Manually-triggered Workflow.
+
+jobs:
+
+  issues:
+    name: "Project board"
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: matthewferry/create-a-project@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          name: "Project board"
+          description: "Project board with the correct column structure."
+          columns: |
+            To do
+            In progress
+            Done
+            Issues
+            Fixed

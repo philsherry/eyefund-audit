@@ -1,0 +1,26 @@
+---
+name: "Task Board: default"
+on:
+  workflow_dispatch: {}
+  ## Manually-triggered Workflow.
+
+jobs:
+
+  issues:
+    name: "Task Board: default"
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: matthewferry/create-a-project@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          name: "Task Board: default"
+          description: "Task board with a default set of tasks to cover both desktop and mobile testing."
+          columns: |
+            To do
+            In progress
+            Done
+            Issues
+            Fixed

@@ -1,0 +1,432 @@
+[
+  {
+    "color": "f9d0c4",
+    "description": "Tools: Android’s Accessibility Scanner",
+    "name": "accessibility scanner"
+  },
+  {
+    "color": "000000",
+    "description": "Platform: Android",
+    "name": "android"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: partially sighted screenreader user",
+    "name": "ashleigh"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: partially sighted screenreader user",
+    "name": "ashleigh"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: audit task",
+    "name": "audit"
+  },
+  {
+    "color": "d73a4a",
+    "description": "Problem: blocked",
+    "name": "blocked"
+  },
+  {
+    "color": "d73a4a",
+    "description": "Problem: blocker",
+    "name": "blocker"
+  },
+  {
+    "color": "d73a4a",
+    "description": "Problem: browser vendor bug",
+    "name": "browser bug"
+  },
+  {
+    "color": "d73a4a",
+    "description": "Problem: something isn’t working",
+    "name": "bug"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: user with rheumatoid arthritis",
+    "name": "christopher"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: user with rheumatoid arthritis",
+    "name": "christopher"
+  },
+  {
+    "color": "fd9454",
+    "description": "Browser: Google Chrome",
+    "name": "chrome"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: partially sighted screen magnifier user",
+    "name": "claudia"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: partially sighted screen magnifier user",
+    "name": "claudia"
+  },
+  {
+    "color": "3ebcf8",
+    "description": "Chore: cleanup",
+    "name": "cleanup"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: general code quality check",
+    "name": "code quality"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: understanding or processing content",
+    "name": "cognitive"
+  },
+  {
+    "color": "f9d0c4",
+    "description": "Tools: Cypress",
+    "name": "cypress"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: dark mode",
+    "name": "dark mode"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: check for design pattern violations",
+    "name": "design pattern"
+  },
+  {
+    "color": "000000",
+    "description": "Platform: desktop (macOS or Windows)",
+    "name": "desktop"
+  },
+  {
+    "color": "3ebcf8",
+    "description": "Chore: documentation",
+    "name": "documentation"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use Dragon Naturally Speaking",
+    "name": "dragon"
+  },
+  {
+    "color": "b7b7b7",
+    "description": "Inactive: issue or pull request already exists",
+    "name": "duplicate"
+  },
+  {
+    "color": "fd9454",
+    "description": "Browser: Microsoft Edge",
+    "name": "edge"
+  },
+  {
+    "color": "f8ec3e",
+    "description": "Feedback: enhancement",
+    "name": "enhancement"
+  },
+  {
+    "color": "d73a4a",
+    "description": "Problem: externally blocked",
+    "name": "externally blocked"
+  },
+  {
+    "color": "fd9454",
+    "description": "Browser: Mozilla Firefox",
+    "name": "firefox"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: focus mode",
+    "name": "focus mode"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: font size on desktop and mobile",
+    "name": "font size"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: switch to greyscale",
+    "name": "greyscale"
+  },
+  {
+    "color": "7efaf6",
+    "description": "Extra attention is needed",
+    "name": "help wanted"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: switch to high contrast",
+    "name": "high-contrast"
+  },
+  {
+    "color": "d73a4a",
+    "description": "Problem: hotfix",
+    "name": "hotfix"
+  },
+  {
+    "color": "fd9454",
+    "description": "Browser: Internet Exploder 11",
+    "name": "ie11"
+  },
+  {
+    "color": "b7b7b7",
+    "description": "Inactive: invalid",
+    "name": "invalid"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: switch to inverted colours",
+    "name": "invert"
+  },
+  {
+    "color": "7efaf6",
+    "description": "Issues that require further investigation",
+    "name": "investigate"
+  },
+  {
+    "color": "000000",
+    "description": "Platform: iOS",
+    "name": "ios"
+  },
+  {
+    "color": "7efaf6",
+    "description": "Issue raised during an audit",
+    "name": "issue"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use the JAWS screen reader",
+    "name": "jaws"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: navigate with just the keyboard",
+    "name": "keyboard-only"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: switch to large text",
+    "name": "large text"
+  },
+  {
+    "color": "000000",
+    "description": "Platform: macOS",
+    "name": "macos"
+  },
+  {
+    "color": "000000",
+    "description": "Platform: mobile (iOS or Android)",
+    "name": "mobile"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: avoidance of busy UI and cognitive overload",
+    "name": "neurodivergent"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use the NVDA screen reader",
+    "name": "nvda"
+  },
+  {
+    "color": "fd9454",
+    "description": "Browser: Opera",
+    "name": "opera"
+  },
+  {
+    "color": "f9d0c4",
+    "description": "Tools: run Pa11y tests",
+    "name": "pa11y"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: autistic user",
+    "name": "pawel"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: general performance checks",
+    "name": "performance"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: persona",
+    "name": "persona"
+  },
+  {
+    "color": "733F2F",
+    "description": "Issue we might expect to have been found by QA",
+    "name": "qa"
+  },
+  {
+    "color": "f8ec3e",
+    "description": "Feedback: question",
+    "name": "question"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: read-and-write",
+    "name": "read-and-write"
+  },
+  {
+    "color": "ea69ff",
+    "description": "Experience: reading level",
+    "name": "reading level"
+  },
+  {
+    "color": "f8ec3e",
+    "description": "Feedback: ready for review",
+    "name": "ready for review"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: reduce motion",
+    "name": "reduce motion"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: related to the writing of the report",
+    "name": "report"
+  },
+  {
+    "color": "f8ec3e",
+    "description": "Feedback: request for comments",
+    "name": "request for comments"
+  },
+  {
+    "color": "f8ec3e",
+    "description": "Feedback: research",
+    "name": "research"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: audit retest",
+    "name": "retest"
+  },
+  {
+    "color": "f8ec3e",
+    "description": "Feedback: retro",
+    "name": "retro"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: older user with multiple conditions",
+    "name": "ron"
+  },
+  {
+    "color": "fd9454",
+    "description": "Browser: Safari",
+    "name": "safari"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: profoundly deaf user",
+    "name": "saleem"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use a screen magnifier",
+    "name": "screen magnifier"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use a screen reader",
+    "name": "screen reader"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: change the default native settings",
+    "name": "settings"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: dyslexic user",
+    "name": "simone"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use TalkBack on Android",
+    "name": "talkback"
+  },
+  {
+    "color": "d73a4a",
+    "description": "Problem: third-party component or plugin",
+    "name": "third-party"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use automated tools",
+    "name": "tools"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: assess the general usability",
+    "name": "usability"
+  },
+  {
+    "color": "ea69ff",
+    "description": "Experience: user experience",
+    "name": "user experience"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: user journey",
+    "name": "user journey"
+  },
+  {
+    "color": "ea69ff",
+    "description": "Experience: visual design",
+    "name": "visual design"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use Apple’s Voice Control",
+    "name": "voice control"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use voice recognition software",
+    "name": "voice recognition"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use Apple’s VoiceOver",
+    "name": "voiceover"
+  },
+  {
+    "color": "fbca04",
+    "description": "Web Content Accessibility Guidelines 2.1",
+    "name": "wcag"
+  },
+  {
+    "color": "000000",
+    "description": "Platform: Windows 10",
+    "name": "windows"
+  },
+  {
+    "color": "b7b7b7",
+    "description": "Inactive: this will not be worked on",
+    "name": "wontfix"
+  },
+  {
+    "color": "f9d0c4",
+    "description": "Tools: Xcode’s Accessibility Inspector",
+    "name": "xcode inspector"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: test the service with text zoomed",
+    "name": "zoom"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: test the service with ZoomText on Windows",
+    "name": "zoomtext"
+  }
+]

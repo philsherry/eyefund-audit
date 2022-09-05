@@ -1,0 +1,1142 @@
+[
+  {
+    "color": "f9d0c4",
+    "description": "Tools: Android’s Accessibility Scanner",
+    "name": "accessibility scanner"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "accessible autocomplete"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "accordion"
+  },
+  {
+    "color": "006b75",
+    "description": "Generic pattern",
+    "name": "account header"
+  },
+  {
+    "color": "006b75",
+    "description": "Generic pattern",
+    "name": "add to a list"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "addresses"
+  },
+  {
+    "color": "000000",
+    "description": "Platform: Android",
+    "name": "android"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: partially sighted screenreader user",
+    "name": "ashleigh"
+  },
+  {
+    "color": "006b75",
+    "description": "Generic pattern",
+    "name": "ask the user for their consent"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: audit task",
+    "name": "audit"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "back link"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "bank details"
+  },
+  {
+    "color": "d73a4a",
+    "description": "Problem: blocked",
+    "name": "blocked"
+  },
+  {
+    "color": "d73a4a",
+    "description": "Problem: blocker",
+    "name": "blocker"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "breadcrumbs"
+  },
+  {
+    "color": "d73a4a",
+    "description": "Problem: browser vendor bug",
+    "name": "browser bug"
+  },
+  {
+    "color": "d73a4a",
+    "description": "Problem: something isn’t working",
+    "name": "bug"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "button"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "character count"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "check a service is suitable"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "check answers"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "checkboxes"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: user with rheumatoid arthritis",
+    "name": "christopher"
+  },
+  {
+    "color": "fd9454",
+    "description": "Browser: Google Chrome",
+    "name": "chrome"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: partially sighted screen magnifier user",
+    "name": "claudia"
+  },
+  {
+    "color": "3ebcf8",
+    "description": "Chore: cleanup",
+    "name": "cleanup"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: general code quality check",
+    "name": "code quality"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: understanding or processing content",
+    "name": "cognitive"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "colour"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "confirmation pages"
+  },
+  {
+    "color": "006b75",
+    "description": "Generic pattern",
+    "name": "confirmed identity"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "contact a department or service team"
+  },
+  {
+    "color": "006b75",
+    "description": "Generic pattern",
+    "name": "could not confirm identify"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "create a username"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "create accounts"
+  },
+  {
+    "color": "006b75",
+    "description": "Generic pattern",
+    "name": "currency input"
+  },
+  {
+    "color": "f9d0c4",
+    "description": "Tools: Cypress",
+    "name": "cypress"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: dark mode",
+    "name": "dark mode"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "date input"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "dates"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: check for design pattern violations",
+    "name": "design pattern"
+  },
+  {
+    "color": "000000",
+    "description": "Platform: desktop (macOS or Windows)",
+    "name": "desktop"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "details"
+  },
+  {
+    "color": "3ebcf8",
+    "description": "Chore: documentation",
+    "name": "documentation"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use Dragon Naturally Speaking",
+    "name": "dragon"
+  },
+  {
+    "color": "b7b7b7",
+    "description": "Inactive: issue or pull request already exists",
+    "name": "duplicate"
+  },
+  {
+    "color": "fd9454",
+    "description": "Browser: Microsoft Edge",
+    "name": "edge"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "email addresses"
+  },
+  {
+    "color": "f8ec3e",
+    "description": "Feedback: enhancement",
+    "name": "enhancement"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "error message"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "error summary"
+  },
+  {
+    "color": "d73a4a",
+    "description": "Problem: externally blocked",
+    "name": "externally blocked"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "fieldset"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "file upload"
+  },
+  {
+    "color": "fd9454",
+    "description": "Browser: Mozilla Firefox",
+    "name": "firefox"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: focus mode",
+    "name": "focus mode"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: font size on desktop and mobile",
+    "name": "font size"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "gender or sex"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: switch to greyscale",
+    "name": "greyscale"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "header"
+  },
+  {
+    "color": "7efaf6",
+    "description": "Extra attention is needed",
+    "name": "help wanted"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: switch to high contrast",
+    "name": "high-contrast"
+  },
+  {
+    "color": "d73a4a",
+    "description": "Problem: hotfix",
+    "name": "hotfix"
+  },
+  {
+    "color": "fd9454",
+    "description": "Browser: Internet Exploder 11",
+    "name": "ie11"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "images"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "inset text"
+  },
+  {
+    "color": "b7b7b7",
+    "description": "Inactive: invalid",
+    "name": "invalid"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: switch to inverted colours",
+    "name": "invert"
+  },
+  {
+    "color": "7efaf6",
+    "description": "Issues that require further investigation",
+    "name": "investigate"
+  },
+  {
+    "color": "000000",
+    "description": "Platform: iOS",
+    "name": "ios"
+  },
+  {
+    "color": "7efaf6",
+    "description": "Issue raised during an audit",
+    "name": "issue"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use the JAWS screen reader",
+    "name": "jaws"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: navigate with just the keyboard",
+    "name": "keyboard-only"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: switch to large text",
+    "name": "large text"
+  },
+  {
+    "color": "000000",
+    "description": "Platform: macOS",
+    "name": "macos"
+  },
+  {
+    "color": "000000",
+    "description": "Platform: mobile (iOS or Android)",
+    "name": "mobile"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "names"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: avoidance of busy UI and cognitive overload",
+    "name": "neurodivergent"
+  },
+  {
+    "color": "006b75",
+    "description": "Generic pattern",
+    "name": "notification badge"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "notification banner"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use the NVDA screen reader",
+    "name": "nvda"
+  },
+  {
+    "color": "fd9454",
+    "description": "Browser: Opera",
+    "name": "opera"
+  },
+  {
+    "color": "f9d0c4",
+    "description": "Tools: run Pa11y tests",
+    "name": "pa11y"
+  },
+  {
+    "color": "006b75",
+    "description": "Generic pattern",
+    "name": "page heading"
+  },
+  {
+    "color": "006b75",
+    "description": "Generic pattern",
+    "name": "page not found"
+  },
+  {
+    "color": "006b75",
+    "description": "Generic pattern",
+    "name": "page title"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "panel"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "passwords"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: autistic user",
+    "name": "pawel"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "payment card details"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: general performance checks",
+    "name": "performance"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: persona",
+    "name": "persona"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "phase banner"
+  },
+  {
+    "color": "733F2F",
+    "description": "Issue we might expect to have been found by QA",
+    "name": "qa"
+  },
+  {
+    "color": "f8ec3e",
+    "description": "Feedback: question",
+    "name": "question"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "question pages"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "radios"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: read-and-write",
+    "name": "read-and-write"
+  },
+  {
+    "color": "ea69ff",
+    "description": "Experience: reading level",
+    "name": "reading level"
+  },
+  {
+    "color": "f8ec3e",
+    "description": "Feedback: ready for review",
+    "name": "ready for review"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "recover from validation errors"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: reduce motion",
+    "name": "reduce motion"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: related to the writing of the report",
+    "name": "report"
+  },
+  {
+    "color": "f8ec3e",
+    "description": "Feedback: request for comments",
+    "name": "request for comments"
+  },
+  {
+    "color": "f8ec3e",
+    "description": "Feedback: research",
+    "name": "research"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: audit retest",
+    "name": "retest"
+  },
+  {
+    "color": "f8ec3e",
+    "description": "Feedback: retro",
+    "name": "retro"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: older user with multiple conditions",
+    "name": "ron"
+  },
+  {
+    "color": "fd9454",
+    "description": "Browser: Safari",
+    "name": "safari"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: profoundly deaf user",
+    "name": "saleem"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use a screen magnifier",
+    "name": "screen magnifier"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use a screen reader",
+    "name": "screen reader"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "select"
+  },
+  {
+    "color": "006b75",
+    "description": "Generic pattern",
+    "name": "service timeout"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "service unavailable"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: change the default native settings",
+    "name": "settings"
+  },
+  {
+    "color": "006b75",
+    "description": "Generic pattern",
+    "name": "sign out"
+  },
+  {
+    "color": "ffaaff",
+    "description": "Persona: dyslexic user",
+    "name": "simone"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "skip link"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "start pages"
+  },
+  {
+    "color": "006b75",
+    "description": "Generic pattern",
+    "name": "status tags in task list pages"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "step by step navigation"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "summary list"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "table"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "tabs"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "tag"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use TalkBack on Android",
+    "name": "talkback"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "task list"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "telephone numbers"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "text input"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "textarea"
+  },
+  {
+    "color": "006b75",
+    "description": "Generic pattern",
+    "name": "there is a problem"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic pattern",
+    "name": "there is a problem with the service"
+  },
+  {
+    "color": "d73a4a",
+    "description": "Problem: third-party component or plugin",
+    "name": "third-party"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use automated tools",
+    "name": "tools"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: assess the general usability",
+    "name": "usability"
+  },
+  {
+    "color": "ea69ff",
+    "description": "Experience: user experience",
+    "name": "user experience"
+  },
+  {
+    "color": "7057ff",
+    "description": "Auditing: user journey",
+    "name": "user journey"
+  },
+  {
+    "color": "006b75",
+    "description": "Generic pattern",
+    "name": "vat registration number"
+  },
+  {
+    "color": "ea69ff",
+    "description": "Experience: visual design",
+    "name": "visual design"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use Apple’s Voice Control",
+    "name": "voice control"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use voice recognition software",
+    "name": "voice recognition"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use Apple’s VoiceOver",
+    "name": "voiceover"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Generic component",
+    "name": "warning text"
+  },
+  {
+    "color": "fbca04",
+    "description": "Web Content Accessibility Guidelines 2.1",
+    "name": "wcag"
+  },
+  {
+    "color": "fbca04",
+    "description": "Non-text Content",
+    "name": "wcag-1.1.1 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Audio-only and Video-only (Prerecorded)",
+    "name": "wcag-1.2.1 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Captions (Prerecorded)",
+    "name": "wcag-1.2.2 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Audio Description or Media Alternative (Prerecorded)",
+    "name": "wcag-1.2.3 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Captions (Live)",
+    "name": "wcag-1.2.4 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Audio Description (Prerecorded)",
+    "name": "wcag-1.2.5 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Sign Language (Prerecorded)",
+    "name": "wcag-1.2.6 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Extended Audio Description (Prerecorded)",
+    "name": "wcag-1.2.7 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Media Alternative (Prerecorded)",
+    "name": "wcag-1.2.8 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Audio-only (Live)",
+    "name": "wcag-1.2.9 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Info and Relationships",
+    "name": "wcag-1.3.1 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Meaningful Sequence",
+    "name": "wcag-1.3.2 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Sensory Characteristics",
+    "name": "wcag-1.3.3 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Orientation",
+    "name": "wcag-1.3.4 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Identify Input Purpose",
+    "name": "wcag-1.3.5 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Identify Purpose",
+    "name": "wcag-1.3.6 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Use of Color",
+    "name": "wcag-1.4.1 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Reflow",
+    "name": "wcag-1.4.10 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Non-text Contrast",
+    "name": "wcag-1.4.11 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Text Spacing",
+    "name": "wcag-1.4.12 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Content on Hover or Focus",
+    "name": "wcag-1.4.13 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Audio Control",
+    "name": "wcag-1.4.2 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Contrast (Minimum)",
+    "name": "wcag-1.4.3 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Resize text",
+    "name": "wcag-1.4.4 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Images of Text",
+    "name": "wcag-1.4.5 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Contrast (Enhanced)",
+    "name": "wcag-1.4.6 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Low or No Background Audio",
+    "name": "wcag-1.4.7 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Visual Presentation",
+    "name": "wcag-1.4.8 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Images of Text (No Exception)",
+    "name": "wcag-1.4.9 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Keyboard",
+    "name": "wcag-2.1.1 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "No Keyboard Trap",
+    "name": "wcag-2.1.2 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Keyboard (No Exception)",
+    "name": "wcag-2.1.3 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Character Key Shortcuts",
+    "name": "wcag-2.1.4 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Timing Adjustable",
+    "name": "wcag-2.2.1 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Pause, Stop, Hide",
+    "name": "wcag-2.2.2 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "No Timing",
+    "name": "wcag-2.2.3 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Interruptions",
+    "name": "wcag-2.2.4 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Re-authenticating",
+    "name": "wcag-2.2.5 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Timeouts",
+    "name": "wcag-2.2.6 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Three Flashes or Below Threshold",
+    "name": "wcag-2.3.1 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Three Flashes",
+    "name": "wcag-2.3.2 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Animation from Interactions",
+    "name": "wcag-2.3.3 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Bypass Blocks",
+    "name": "wcag-2.4.1 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Section Headings",
+    "name": "wcag-2.4.10 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Page Titled",
+    "name": "wcag-2.4.2 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Focus Order",
+    "name": "wcag-2.4.3 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Link Purpose (In Context)",
+    "name": "wcag-2.4.4 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Multiple Ways",
+    "name": "wcag-2.4.5 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Headings and Labels",
+    "name": "wcag-2.4.6 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Focus Visible",
+    "name": "wcag-2.4.7 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Location",
+    "name": "wcag-2.4.8 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Link Purpose (Link Only)",
+    "name": "wcag-2.4.9 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Pointer Gestures",
+    "name": "wcag-2.5.1 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Pointer Cancellation",
+    "name": "wcag-2.5.2 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Label in Name",
+    "name": "wcag-2.5.3 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Motion Actuation",
+    "name": "wcag-2.5.4 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Target Size",
+    "name": "wcag-2.5.5 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Concurrent Input Mechanisms",
+    "name": "wcag-2.5.6 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Language of Page",
+    "name": "wcag-3.1.1 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Language of Parts",
+    "name": "wcag-3.1.2 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Unusual Words",
+    "name": "wcag-3.1.3 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Abbreviations",
+    "name": "wcag-3.1.4 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Reading Level",
+    "name": "wcag-3.1.5 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Pronunciation",
+    "name": "wcag-3.1.6 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "On Focus",
+    "name": "wcag-3.2.1 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "On Input",
+    "name": "wcag-3.2.2 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Consistent Navigation",
+    "name": "wcag-3.2.3 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Consistent Identification",
+    "name": "wcag-3.2.4 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Change on Request",
+    "name": "wcag-3.2.5 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Error Identification",
+    "name": "wcag-3.3.1 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Labels or Instructions",
+    "name": "wcag-3.3.2 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Error Suggestion",
+    "name": "wcag-3.3.3 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Error Prevention (Legal, Financial, Data)",
+    "name": "wcag-3.3.4 (AA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Help",
+    "name": "wcag-3.3.5 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Error Prevention (All)",
+    "name": "wcag-3.3.6 (AAA)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Parsing",
+    "name": "wcag-4.1.1 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Name, Role, Value",
+    "name": "wcag-4.1.2 (A)"
+  },
+  {
+    "color": "fbca04",
+    "description": "Status Messages",
+    "name": "wcag-4.1.3 (AA)"
+  },
+  {
+    "color": "000000",
+    "description": "Platform: Windows 10",
+    "name": "windows"
+  },
+  {
+    "color": "b7b7b7",
+    "description": "Inactive: this will not be worked on",
+    "name": "wontfix"
+  },
+  {
+    "color": "f9d0c4",
+    "description": "Tools: Xcode’s Accessibility Inspector",
+    "name": "xcode inspector"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: test the service with text zoomed",
+    "name": "zoom"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: test the service with ZoomText on Windows",
+    "name": "zoomtext"
+  }
+]
