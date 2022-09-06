@@ -32,13 +32,20 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           JAVASCRIPT_DEFAULT_STYLE: prettier
           JAVASCRIPT_ES_CONFIG_FILE: .eslintrc.json
+          LINTER_RULES_PATH: /
           MARKDOWN_CONFIG_FILE: .markdownlint.json
           VALIDATE_ALL_CODEBASE: false
+          VALIDATE_BASH: true
           VALIDATE_CSS: true
           VALIDATE_EDITORCONFIG: true
+          VALIDATE_ENV: true
           VALIDATE_GITHUB_ACTIONS: true
           VALIDATE_HTML: true
           VALIDATE_JAVASCRIPT_ES: true
           VALIDATE_JSON: true
           VALIDATE_MARKDOWN: true
+          VALIDATE_PHP_PHPCS: true
+          VALIDATE_PHP_PHPSTAN: true
+          VALIDATE_PHP: true
+          VALIDATE_SHELL_SHFMT: true
           VALIDATE_YAML: true
