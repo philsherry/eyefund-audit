@@ -2,7 +2,7 @@
 
 Template for performing accessibility audits on GitHub, using Projects.
 
-[![GitHub Super-Linter](https://github.com/philsherry/audit-template/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+[![GitHub Super-Linter](https://github.com/philsherry/eyefund-audit/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
 ## Custom issue templates
 
