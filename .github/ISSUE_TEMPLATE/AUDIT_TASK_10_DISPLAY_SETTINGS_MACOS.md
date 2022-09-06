@@ -1,8 +1,8 @@
 ---
-name: "\U0001F39B \U0001F5A5 Native display settings: macOS"
+name: "\U0001F39B \U0001F5A5 [AUDIT] Native display settings: macOS"
 about: "Test the service with various native settings on a macOS computer."
-title: "\U0001F39B \U0001F5A5 Native display settings: macOS"
-labels: "audit, contrast, greyscale, invert, macos, settings"
+title: "\U0001F39B \U0001F5A5 [AUDIT] Native display settings: macOS"
+labels: "audit, eyefund, macos, settings, invert, contrast, greyscale"
 assignees: ""
 ---
 Test the service with various native settings on a macOS computer.

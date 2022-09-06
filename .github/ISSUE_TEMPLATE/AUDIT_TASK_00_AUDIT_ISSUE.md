@@ -1,7 +1,7 @@
 ---
-name: "\U0001F5C4 \U0001F5C2 Audit issue"
+name: "\U0001F5C4 \U0001F5C2 [AUDIT] Issue"
 about: "File an issue being raised during the audit."
-title: "Issue:"
+title: "\U0001F5C4 \U0001F5C2 [AUDIT] Issue"
 labels: "issue"
 assignees: ""
 ---

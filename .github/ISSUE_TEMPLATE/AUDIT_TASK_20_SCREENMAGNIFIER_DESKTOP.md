@@ -1,8 +1,8 @@
 ---
-name: "\U0001F575 \U0001F5A5 Zoomed: Desktop"
+name: "\U0001F575 \U0001F5A5 [AUDIT] Zoomed: Desktop"
 about: "Test the service at 400% zoom magnification on desktop devices."
-title: "\U0001F575 \U0001F5A5 Zoomed: Desktop"
-labels: "audit, desktop, screen magnifier"
+title: "\U0001F575 \U0001F5A5 [AUDIT] Zoomed: Desktop"
+labels: "audit, eyefund, desktop, screen magnifier"
 assignees: ""
 ---
 Test the service at 400% zoom magnification on desktop devices.

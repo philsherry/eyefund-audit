@@ -1,8 +1,8 @@
 ---
-name: "\U0001F9BA \U0001F5A5 Native display settings: Windows"
+name: "\U0001F9BA \U0001F5A5 [AUDIT] Native display settings: Windows"
 about: "Test the service with various native settings on a Windows computer."
-title: "\U0001F9BA \U0001F5A5 Native display settings: Windows"
-labels: "audit, contrast, greyscale, invert, settings, windows"
+title: "\U0001F9BA \U0001F5A5 [AUDIT] Native display settings: Windows"
+labels: "audit, eyefund, windows, settings, invert, contrast, greyscale"
 assignees: ""
 ---
 Test the service with various native settings on a Windows computer.
