@@ -40,6 +40,7 @@ All label names are lowercase to avoid any potential case-sensitivity issues.
 - `tools`
 - `usability`
 - `user journey`
+- `voice access`
 - `voice control`
 - `voice recognition`
 - `voiceover`

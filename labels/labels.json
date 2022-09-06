@@ -1,48 +1,28 @@
 [
   {
-    "color": "f9d0c4",
-    "description": "Tools: Android’s Accessibility Scanner",
+    "color": "7057ff",
+    "description": "Audit task: Android’s Accessibility Scanner",
     "name": "accessibility scanner"
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
-    "name": "accessible autocomplete"
-  },
-  {
-    "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "accordion"
   },
   {
     "color": "006b75",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "account header"
   },
   {
-    "color": "006b75",
-    "description": "Generic pattern",
-    "name": "add to a list"
-  },
-  {
-    "color": "0e8a16",
-    "description": "Generic pattern",
-    "name": "addresses"
+    "color": "3ebcf8",
+    "description": "Plausible, not Google",
+    "name": "analytics"
   },
   {
     "color": "000000",
     "description": "Platform: Android",
     "name": "android"
-  },
-  {
-    "color": "ffaaff",
-    "description": "Persona: partially sighted screenreader user",
-    "name": "ashleigh"
-  },
-  {
-    "color": "006b75",
-    "description": "Generic pattern",
-    "name": "ask the user for their consent"
   },
   {
     "color": "7057ff",
@@ -51,12 +31,7 @@
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
-    "name": "back link"
-  },
-  {
-    "color": "0e8a16",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "bank details"
   },
   {
@@ -71,7 +46,7 @@
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "breadcrumbs"
   },
   {
@@ -86,33 +61,23 @@
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "button"
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "character count"
   },
   {
     "color": "0e8a16",
-    "description": "Generic pattern",
-    "name": "check a service is suitable"
-  },
-  {
-    "color": "0e8a16",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "check answers"
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "checkboxes"
-  },
-  {
-    "color": "ffaaff",
-    "description": "Persona: user with rheumatoid arthritis",
-    "name": "christopher"
   },
   {
     "color": "fd9454",
@@ -120,13 +85,8 @@
     "name": "chrome"
   },
   {
-    "color": "ffaaff",
-    "description": "Persona: partially sighted screen magnifier user",
-    "name": "claudia"
-  },
-  {
     "color": "3ebcf8",
-    "description": "Chore: cleanup",
+    "description": "Mindless: cleanup",
     "name": "cleanup"
   },
   {
@@ -136,68 +96,48 @@
   },
   {
     "color": "7057ff",
-    "description": "Audit task: understanding or processing content",
+    "description": "Audit task: understanding/processing content",
     "name": "cognitive"
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "colour"
   },
   {
     "color": "0e8a16",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "confirmation pages"
   },
   {
-    "color": "006b75",
-    "description": "Generic pattern",
-    "name": "confirmed identity"
-  },
-  {
     "color": "0e8a16",
-    "description": "Generic pattern",
-    "name": "contact a department or service team"
-  },
-  {
-    "color": "006b75",
-    "description": "Generic pattern",
-    "name": "could not confirm identify"
-  },
-  {
-    "color": "0e8a16",
-    "description": "Generic pattern",
-    "name": "create a username"
-  },
-  {
-    "color": "0e8a16",
-    "description": "Generic pattern",
-    "name": "create accounts"
-  },
-  {
-    "color": "006b75",
-    "description": "Generic pattern",
-    "name": "currency input"
-  },
-  {
-    "color": "f9d0c4",
-    "description": "Tools: Cypress",
-    "name": "cypress"
+    "description": "Eyefund pattern",
+    "name": "contact method"
   },
   {
     "color": "7057ff",
-    "description": "Auditing: dark mode",
-    "name": "dark mode"
+    "description": "Audit task: check content",
+    "name": "content"
+  },
+  {
+    "color": "EBEA23",
+    "description": "Cypress test",
+    "name": "cypress"
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "date input"
   },
   {
     "color": "0e8a16",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "dates"
+  },
+  {
+    "color": "0366d6",
+    "description": "Pull requests that update a dependency file",
+    "name": "dependencies"
   },
   {
     "color": "7057ff",
@@ -211,12 +151,12 @@
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "details"
   },
   {
     "color": "3ebcf8",
-    "description": "Chore: documentation",
+    "description": "Mindless: documentation",
     "name": "documentation"
   },
   {
@@ -230,13 +170,18 @@
     "name": "duplicate"
   },
   {
+    "color": "7057ff",
+    "description": "Audit task: understanding/processing content",
+    "name": "dyslexia"
+  },
+  {
     "color": "fd9454",
     "description": "Browser: Microsoft Edge",
     "name": "edge"
   },
   {
     "color": "0e8a16",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "email addresses"
   },
   {
@@ -246,12 +191,12 @@
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "error message"
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "error summary"
   },
   {
@@ -261,13 +206,8 @@
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "fieldset"
-  },
-  {
-    "color": "0e8a16",
-    "description": "Generic component",
-    "name": "file upload"
   },
   {
     "color": "fd9454",
@@ -276,18 +216,8 @@
   },
   {
     "color": "7057ff",
-    "description": "Auditing: focus mode",
-    "name": "focus mode"
-  },
-  {
-    "color": "7057ff",
     "description": "Audit task: font size on desktop and mobile",
     "name": "font size"
-  },
-  {
-    "color": "0e8a16",
-    "description": "Generic pattern",
-    "name": "gender or sex"
   },
   {
     "color": "7057ff",
@@ -296,7 +226,12 @@
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
+    "name": "footer"
+  },
+  {
+    "color": "0e8a16",
+    "description": "Eyefund component",
     "name": "header"
   },
   {
@@ -321,12 +256,12 @@
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "images"
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "inset text"
   },
   {
@@ -370,6 +305,11 @@
     "name": "large text"
   },
   {
+    "color": "754a12",
+    "description": "Service type: live",
+    "name": "live"
+  },
+  {
     "color": "000000",
     "description": "Platform: macOS",
     "name": "macos"
@@ -381,22 +321,22 @@
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
-    "name": "names"
+    "description": "Eyefund component",
+    "name": "navigation"
   },
   {
     "color": "7057ff",
-    "description": "Audit task: avoidance of busy UI and cognitive overload",
+    "description": "Audit task: understanding/processing content",
     "name": "neurodivergent"
   },
   {
     "color": "006b75",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "notification badge"
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "notification banner"
   },
   {
@@ -410,43 +350,38 @@
     "name": "opera"
   },
   {
-    "color": "f9d0c4",
-    "description": "Tools: run Pa11y tests",
+    "color": "7057ff",
+    "description": "",
     "name": "pa11y"
   },
   {
     "color": "006b75",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "page heading"
   },
   {
     "color": "006b75",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "page not found"
   },
   {
+    "color": "0e8a16",
+    "description": "Eyefund styles",
+    "name": "page template"
+  },
+  {
     "color": "006b75",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "page title"
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "panel"
   },
   {
     "color": "0e8a16",
-    "description": "Generic pattern",
-    "name": "passwords"
-  },
-  {
-    "color": "ffaaff",
-    "description": "Persona: autistic user",
-    "name": "pawel"
-  },
-  {
-    "color": "0e8a16",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "payment card details"
   },
   {
@@ -455,17 +390,22 @@
     "name": "performance"
   },
   {
-    "color": "7057ff",
-    "description": "Auditing: persona",
-    "name": "persona"
-  },
-  {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "phase banner"
   },
   {
-    "color": "733F2F",
+    "color": "FBCA04",
+    "description": "Themes: dark, light, and so on",
+    "name": "prefers-color-scheme"
+  },
+  {
+    "color": "B513E9",
+    "description": "Motion: make sure it’s wrapped correctly",
+    "name": "prefers-reduced-motion"
+  },
+  {
+    "color": "733f2f",
     "description": "Issue we might expect to have been found by QA",
     "name": "qa"
   },
@@ -476,18 +416,13 @@
   },
   {
     "color": "0e8a16",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "question pages"
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "radios"
-  },
-  {
-    "color": "7057ff",
-    "description": "Auditing: read-and-write",
-    "name": "read-and-write"
   },
   {
     "color": "ea69ff",
@@ -501,13 +436,8 @@
   },
   {
     "color": "0e8a16",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "recover from validation errors"
-  },
-  {
-    "color": "7057ff",
-    "description": "Auditing: reduce motion",
-    "name": "reduce motion"
   },
   {
     "color": "7057ff",
@@ -535,19 +465,9 @@
     "name": "retro"
   },
   {
-    "color": "ffaaff",
-    "description": "Persona: older user with multiple conditions",
-    "name": "ron"
-  },
-  {
     "color": "fd9454",
     "description": "Browser: Safari",
     "name": "safari"
-  },
-  {
-    "color": "ffaaff",
-    "description": "Persona: profoundly deaf user",
-    "name": "saleem"
   },
   {
     "color": "7057ff",
@@ -561,17 +481,17 @@
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "select"
   },
   {
     "color": "006b75",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "service timeout"
   },
   {
     "color": "0e8a16",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "service unavailable"
   },
   {
@@ -581,52 +501,32 @@
   },
   {
     "color": "006b75",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "sign out"
   },
   {
-    "color": "ffaaff",
-    "description": "Persona: dyslexic user",
-    "name": "simone"
-  },
-  {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "skip link"
   },
   {
     "color": "0e8a16",
-    "description": "Generic pattern",
-    "name": "start pages"
-  },
-  {
-    "color": "006b75",
-    "description": "Generic pattern",
-    "name": "status tags in task list pages"
+    "description": "Eyefund styles",
+    "name": "spacing"
   },
   {
     "color": "0e8a16",
-    "description": "Generic pattern",
-    "name": "step by step navigation"
-  },
-  {
-    "color": "0e8a16",
-    "description": "Generic component",
-    "name": "summary list"
-  },
-  {
-    "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "table"
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "tabs"
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "tag"
   },
   {
@@ -636,33 +536,23 @@
   },
   {
     "color": "0e8a16",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "task list"
   },
   {
     "color": "0e8a16",
-    "description": "Generic pattern",
+    "description": "Eyefund pattern",
     "name": "telephone numbers"
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "text input"
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "textarea"
-  },
-  {
-    "color": "006b75",
-    "description": "Generic pattern",
-    "name": "there is a problem"
-  },
-  {
-    "color": "0e8a16",
-    "description": "Generic pattern",
-    "name": "there is a problem with the service"
   },
   {
     "color": "d73a4a",
@@ -675,6 +565,11 @@
     "name": "tools"
   },
   {
+    "color": "0e8a16",
+    "description": "Eyefund styles",
+    "name": "typography"
+  },
+  {
     "color": "7057ff",
     "description": "Audit task: assess the general usability",
     "name": "usability"
@@ -685,19 +580,14 @@
     "name": "user experience"
   },
   {
-    "color": "7057ff",
-    "description": "Auditing: user journey",
-    "name": "user journey"
-  },
-  {
-    "color": "006b75",
-    "description": "Generic pattern",
-    "name": "vat registration number"
-  },
-  {
     "color": "ea69ff",
     "description": "Experience: visual design",
     "name": "visual design"
+  },
+  {
+    "color": "7057ff",
+    "description": "Audit task: use Android’s Voice Access",
+    "name": "voice access"
   },
   {
     "color": "7057ff",
@@ -716,7 +606,7 @@
   },
   {
     "color": "0e8a16",
-    "description": "Generic component",
+    "description": "Eyefund component",
     "name": "warning text"
   },
   {
@@ -1115,6 +1005,11 @@
     "name": "wcag-4.1.3 (AA)"
   },
   {
+    "color": "0052cc",
+    "description": "Something on the website",
+    "name": "website"
+  },
+  {
     "color": "000000",
     "description": "Platform: Windows 10",
     "name": "windows"
@@ -1125,9 +1020,19 @@
     "name": "wontfix"
   },
   {
-    "color": "f9d0c4",
-    "description": "Tools: Xcode’s Accessibility Inspector",
-    "name": "xcode inspector"
+    "color": "0052CC",
+    "description": "WordPress: plugin",
+    "name": "woocommerce"
+  },
+  {
+    "color": "0052CC",
+    "description": "WordPress",
+    "name": "wordpress"
+  },
+  {
+    "color": "0052cc",
+    "description": "Write content for the website",
+    "name": "writing"
   },
   {
     "color": "7057ff",

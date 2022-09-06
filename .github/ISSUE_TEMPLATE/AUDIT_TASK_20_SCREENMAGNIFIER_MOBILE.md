@@ -1,8 +1,8 @@
 ---
-name: "\U0001F575 \U0001F4F1 Zoomed: Mobile"
+name: "\U0001F575 \U0001F4F1 [AUDIT] Zoomed: Mobile"
 about: "Test the service at 400% zoom magnification on mobile devices."
-title: "\U0001F575 \U0001F4F1 Zoomed: Mobile"
-labels: "audit, mobile, screen magnifier"
+title: "\U0001F575 \U0001F4F1 [AUDIT] Zoomed: Mobile"
+labels: "audit, eyefund, mobile, screen magnifier"
 assignees: ""
 ---
 Test the service at 400% zoom magnification on mobile devices.
