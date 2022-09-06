@@ -33,7 +33,7 @@
     "cypress": "^10.7.0",
     "cypress-audit": "^1.0.0",
     "cypress-axe": "^1.0.0",
-    "cypress-dark": "^1.1.0",
+    "cypress-dark": "^1.8.3",
     "cypress-fail-fast": "^5.0.1",
     "cypress-log-to-output": "^1.1.2",
     "cypress-mochawesome-reporter": "^3.2.2",
